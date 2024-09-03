@@ -75,3 +75,5 @@ and set the implementation as the `Content` for the `PointerLayout`
         pointerLayout.setContent(content)
     }
 ```
+
+You can modify the class `PointerLayout` to change the cursor size or speed.
